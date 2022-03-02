@@ -6,3 +6,4 @@ discover,foi desenvolver uma homepage para uma marca
 de café
 
 ## 💻 Previa do desafio 
+
